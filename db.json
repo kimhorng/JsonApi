@@ -2,7 +2,7 @@
       "todos" : [
             {
                   "title" : "Meeting with teamwork",
-                  "createAt": new Date().toISOString(),
+                  "createAt": "20.09.2020",
                   "body": "progressive update",
                   "id" : 1
             },
